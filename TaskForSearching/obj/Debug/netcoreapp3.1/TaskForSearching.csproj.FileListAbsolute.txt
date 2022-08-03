@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.exe
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.deps.json
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.runtimeconfig.json
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.runtimeconfig.dev.json
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.dll
+C:\Users\User\source\repos\TaskForSearching\bin\Debug\netcoreapp3.1\TaskForSearching.pdb
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.dll
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.pdb
+C:\Users\User\source\repos\TaskForSearching\obj\Debug\netcoreapp3.1\TaskForSearching.genruntimeconfig.cache

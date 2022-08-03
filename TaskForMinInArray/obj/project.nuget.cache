@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hZpmzI7Ke0M9DhTo6tlBBz1PBPOp4F0UCSl2wxiu0rgUO/rPrWqgaPYkR5VzaBlWNZuIKGdn//pS+ICQjdWaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\С# Task-1\\TaskForMinInArray\\TaskForMinInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
